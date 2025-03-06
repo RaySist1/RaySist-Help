@@ -1,3 +1,4 @@
+# Support https://discord.gg/pNvGMgQ2vZ
 
 # RaySist-Help
 
